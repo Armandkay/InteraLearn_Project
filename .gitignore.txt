@@ -1,0 +1,8 @@
+# Ignore common system files and IDE configurations
+.DS_Store
+Thumbs.db
+*.log
+*.env
+
+# Do not ignore node_modules if you need them
+# node_modules/
